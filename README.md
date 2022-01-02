@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @william-zy
 - 👀 I’m interested in MFC
 - 🌱 I’m currently learning MFC Applications
-- 💞️ I’m looking to collaborate on NOTHING
+- 💞️ I’m looking to collaborate on Websites
 - 📫 How to reach me visit [me](https://github.com/william-zy)
 
 <!---
